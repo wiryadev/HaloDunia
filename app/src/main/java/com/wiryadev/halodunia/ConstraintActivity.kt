@@ -18,7 +18,7 @@ class ConstraintActivity : AppCompatActivity() {
     }
 
     fun tesnuyuy (){
-
+        println("Hola!")
     }
     //hurrraaa
 }
