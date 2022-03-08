@@ -14,7 +14,7 @@ class ConstraintActivity : AppCompatActivity() {
         setContentView(binding.root)
     }
     fun abc(){
-
+        println("CDE")
     }
 
     fun testAfif(){
