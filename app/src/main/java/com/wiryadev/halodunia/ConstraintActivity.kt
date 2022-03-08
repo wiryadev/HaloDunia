@@ -14,7 +14,8 @@ class ConstraintActivity : AppCompatActivity() {
     }
 
     fun testAfif(){
-
+        println("Selamat malam!")
+        tesnuyuy()
     }
 
     fun tesnuyuy (){
