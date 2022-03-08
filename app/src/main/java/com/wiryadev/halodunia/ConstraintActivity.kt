@@ -10,7 +10,11 @@ class ConstraintActivity : AppCompatActivity() {
 
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
-        setContentView(R.layout.activity_constraint)
+        binding = ActivityConstraintBinding.inflate(layoutInflater)
+        setContentView(binding.root)
+    }
+    fun abc(){
+
     }
 
     fun testAfif(){
