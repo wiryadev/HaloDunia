@@ -12,5 +12,9 @@ class ConstraintActivity : AppCompatActivity() {
     fun testAfif(){
 
     }
+
+    fun tesnuyuy (){
+
+    }
     //hurrraaa
 }
