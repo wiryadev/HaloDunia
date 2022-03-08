@@ -8,4 +8,7 @@ class MainActivity2 : AppCompatActivity() {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_main2)
     }
+    fun gitHub(){
+        println("Aku sedang belajar github teman-teman!")
+    }
 }
