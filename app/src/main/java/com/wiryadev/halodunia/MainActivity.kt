@@ -12,7 +12,4 @@ class MainActivity : AppCompatActivity() {
 
         Log.d("BINARIAN", "Halo $name")
     }
-    fun punyaGua(){
-        print("Hola!")
-    }
 }
