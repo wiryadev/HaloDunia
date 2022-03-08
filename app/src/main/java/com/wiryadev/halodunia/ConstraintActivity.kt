@@ -26,4 +26,7 @@ class ConstraintActivity : AppCompatActivity() {
         println("Hola!")
     }
     //hurrraaa
+    fun uraa() {
+        println("URAAAA")
+    }
 }
