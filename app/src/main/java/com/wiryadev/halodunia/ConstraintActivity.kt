@@ -8,4 +8,9 @@ class ConstraintActivity : AppCompatActivity() {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_constraint)
     }
+
+    fun testAfif(){
+
+    }
+    //hurrraaa
 }
